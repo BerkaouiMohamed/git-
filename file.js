@@ -6,3 +6,5 @@ line form header branch
 
 
 line from master branch
+
+modified line
