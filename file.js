@@ -8,3 +8,5 @@ line form header branch
 line from master branch
 
 modified line
+
+modified line 2
